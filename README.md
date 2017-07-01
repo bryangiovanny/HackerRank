@@ -1,2 +1,1 @@
-# HackerRank
-Hackerrank solutions
+# Public
